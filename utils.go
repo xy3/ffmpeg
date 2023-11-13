@@ -1,4 +1,4 @@
-package ffmpeg_go
+package ffmpeg
 
 import (
 	"fmt"

@@ -1,6 +1,7 @@
+//go:build debug
 // +build debug
 
-package ffmpeg_go
+package ffmpeg
 
 import (
 	"fmt"
